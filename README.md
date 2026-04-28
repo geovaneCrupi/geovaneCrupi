@@ -1,16 +1,30 @@
-## Hi there 👋
+👋 Olá, eu sou o Geovane
 
-<!--
-**geovaneCrupi/geovaneCrupi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor focado em criação de sites e sistemas web.
+🚀 Atualmente iniciando React e Next.js e evoluir para aplicações mais modernas.
 
-Here are some ideas to get you started:
+🌐 Projetos em WordPress
+🔗 Tema personalizado
+🔗 Site institucional
+🔗 Landing Page
+🔗 Single Page
+🔗 Blogs
+🔗 Integrações CRM | API's | Planilhas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚛️ Projetos em React (em breve)
+🚧 Em desenvolvimento...
+
+
+📚 Tecnologias
+PHP
+WordPress (ACF, CF7)
+JavaScript / jQuery
+HTML / CSS / SCSS
+React
+Next.js
+TypeScript
+Tailwind CSS
+
+📫 Contato
+LinkedIn: (https://www.linkedin.com/in/geovane-pongeluppe-crupi-259273302/)
+Email: (geovane.crupi@gmail.com)
